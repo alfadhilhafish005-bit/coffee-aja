@@ -1,0 +1,16 @@
+body {
+    background-color: #f7f1e3;
+    color: #3b2f2f;
+}
+
+.navbar {
+    background-color: #4b2e05 !important;
+}
+
+.card {
+    transition: transform 0.3s ease;
+}
+
+.card:hover {
+    transform: scale(1.05);
+}
